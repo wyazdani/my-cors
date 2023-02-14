@@ -10,4 +10,4 @@ deploy to your server
 
 ## Format
 
-BASE_URL?url={domain}
+example.com?url=https://google.com
